@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/GeekyAnts/vue-native-router",
   "dependencies": {
-    "react-navigation": "1.5.11"
+    "react-navigation": "3.11.1"
   },
   "peerDependencies": {
     "vue-native-core": "0.0.5",
